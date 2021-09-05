@@ -46,14 +46,15 @@
 <br>
 
 ### :white_medium_square: &nbsp; Reach Me
+    
+<p> If interest read my articles <a href="https://medium.com/@anushkadarr"> Here at Medium</a>
+</p>
+
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/#">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
     </a>
      <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
-    </a>
-     <a href="https://medium.com/@anushkadarr">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Follow me on medium">
     </a>
 </div>
