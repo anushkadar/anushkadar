@@ -15,7 +15,7 @@
 </div>
 <br>
 
-### :white_medium_square: &nbsp;Technologies spectrum
+### :white_medium_square: &nbsp;Technology spectrum
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/anushkadar)](https://github.com/anushkadar) 
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white&link=https://github.com/anushkadar)](https://github.com/anushkadar) 
