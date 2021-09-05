@@ -54,6 +54,6 @@
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
      <a href="https://medium.com/@anushkadarr">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/medium.svg" alt="Follow me on medium">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Follow me on medium">
     </a>
 </div>
