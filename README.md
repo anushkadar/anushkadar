@@ -1,7 +1,7 @@
 
 <div align="left">
 <h3 align="left">👋 Hi There!</h3>
-<p> <h4> I am Anushka Darshana, who is fashionate in cording, interest in walking, courious in astronomy </h4> 
+<p> <h4> I am Anushka Darshana, who is passionate in cording, interest in walking, curious in astronomy. </h4> 
 </p>
 </div>
 <br>
