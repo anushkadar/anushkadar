@@ -18,6 +18,7 @@
 ### :white_medium_square: &nbsp;Technology spectrum
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/anushkadar)](https://github.com/anushkadar) 
+[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white&link=https://github.com/anushkadar)](https://github.com/anushkadar) 
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white&link=https://github.com/anushkadar)](https://github.com/anushkadar) 
 [![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white&link=https://github.com/anushkadar)](https://github.com/anushkadar) 
 [![Scala](https://img.shields.io/badge/C%20Sharp-239120.svg?style=flat&logo=C%20Sharp&logoColor=white&link=https://github.com/anushkadar)](https://github.com/anushkadar)
