@@ -11,7 +11,7 @@
 
 <div align="left">
   <img float="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anushkadar&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img float="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anushkadar&layout=compact&langs_count=8"/>
+  <img float="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anushkadar&layout=compact&langs_count=10"/>
 </div>
 <br>
 
